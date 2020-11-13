@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.rectangle{
+    max-width:50%;
+    border: 1px solid blue;
+    margin: auto;
+}
+.header{
+    background-color: #0649EE;
+    /* height: 90px; */
+    /* align-items: center; */
+    border-radius: 13px 13px 0 0;
+}
